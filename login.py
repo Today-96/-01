@@ -7,3 +7,8 @@ if __name__ == "__main__":
     
     print("world")
 
+    a = b
+    b = c
+    print(c)
+
+
