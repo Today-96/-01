@@ -3,4 +3,5 @@ if __name__ == "__main__":
     
     print("您好")
 
+    print("hello")
 
